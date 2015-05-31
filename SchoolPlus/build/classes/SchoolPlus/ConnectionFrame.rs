@@ -1,0 +1,8 @@
+SchoolPlus.ProgressBarTest
+SchoolPlus.SimulatedActivity
+SchoolPlus.ConnectionFrame
+SchoolPlus.ProgressBarFrame
+SchoolPlus.ProgressBarFrame$2
+SchoolPlus.ProgressBarFrame$1
+SchoolPlus.ConnectionFrame$2
+SchoolPlus.ConnectionFrame$1

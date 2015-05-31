@@ -1,0 +1,1 @@
+mysql -uroot -padmin<./currentDb/duccschooldb.SQL

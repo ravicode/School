@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.7" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.ButtonGroup" name="buttonGroup1">
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="99" green="99" red="0" type="rgb"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Component id="jScrollPane1" alignment="0" pref="592" max="32767" attributes="0"/>
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                  <Component id="jLabel1" min="-2" max="-2" attributes="1"/>
+                  <EmptySpace pref="47" max="32767" attributes="0"/>
+              </Group>
+              <Component id="jSeparator1" alignment="0" pref="592" max="32767" attributes="0"/>
+              <Component id="jScrollPane2" alignment="0" pref="592" max="32767" attributes="0"/>
+              <Group type="102" alignment="1" attributes="0">
+                  <Group type="103" groupAlignment="1" attributes="0">
+                      <Group type="102" alignment="1" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="notAgreeRadio" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+                          <Component id="agreeRadio" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                          <Component id="jButton1" min="-2" pref="76" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="1" attributes="0">
+                          <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                          <Component id="jScrollPane3" pref="564" max="32767" attributes="1"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" alignment="1" attributes="0">
+                  <EmptySpace pref="304" max="32767" attributes="0"/>
+                  <Component id="jButton2" min="-2" pref="73" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                  <Component id="jButton3" min="-2" pref="74" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                  <Component id="jButton4" min="-2" pref="78" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <Component id="jScrollPane1" min="-2" pref="39" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Component id="jScrollPane3" min="-2" pref="235" max="-2" attributes="0"/>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jButton1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="notAgreeRadio" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="agreeRadio" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Component id="jSeparator1" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jButton4" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jButton2" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jButton3" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="16" max="-2" attributes="0"/>
+                  <Component id="jScrollPane2" min="-2" pref="35" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextPane" name="jTextPane1">
+              <Properties>
+                <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="cc" red="cc" type="rgb"/>
+                </Property>
+                <Property name="editable" type="boolean" value="false"/>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Tahoma" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="                                                    License Agreement"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextPane" name="jTextPane2">
+              <Properties>
+                <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="cc" red="cc" type="rgb"/>
+                </Property>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane3">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextArea" name="jTextArea1">
+              <Properties>
+                <Property name="columns" type="int" value="20"/>
+                <Property name="rows" type="int" value="5"/>
+                <Property name="text" type="java.lang.String" value="PLEASE READ: BY DOWNLOADING, USING OUR SOFTWARE, OR PURCHASING SERVICES &#xa;RELATED TO THE SOFTWARE, YOU ACCEPT THE TERMS AND CONDITIONS STATED BELOW &#xa;IN A LEGALLY BINDING MANNER.&#xa;&#xa;If you are obtaining the software as defined below, then you must accept&#xa;the terms and conditions of the agreement as per the policy of the DUCC&#xa;Systems.  If the company you represent or you (collectively &quot;you&quot;) do not&#xa;agree to the terms and conditions of this agreement, do not download &#xa;or install the software.&#xa;&#xa;PROPRIETARY RIGHTS AND CONDITIONS:&#xa;All right, title and interest including, but not limited to, copyright and&#xa;other intellectual property rights in and to the software (including but &#xa;not limited to all graphic/image, and text files) are owned by DUCC Systems.&#xa;Such rights are protected by Indian Government copyright laws, other applicable&#xa;copyright laws, and international treaty provisions. DUCC Systems retains &#xa;all rights not expressly granted herein. &#xa;You may not redistribute, sell, decompile, reverse engineer, or disassemble&#xa;the software. The software, including any modified or customized versions, &#xa;cannot be resold, redistributed, or offered as a service without explicit&#xa;written permission from DUCC Systems. DUCC Systems, reserves the right to &#xa;refuse permission to use this software product to any individual or company &#xa;for any reason, and may do so without notice. &#xa;&#xa;LICENSES:&#xa;Each copy of the software must have it&apos;s own (separate) license and be registered&#xa;with DUCC Systems.You are not permitted to make copies of the software without &#xa;first purchasing the appropriate additional licenses.  Individual software licenses&#xa;are only valid when registered to a domain/Organization.  This license does not&#xa;grant any reseller privileges. &#xa;&#xa;OPTIONAL SERVER LICENSES: &#xa;If a &quot;server&quot; license is purchased, the software is considered licensed only&#xa;when it resides on the licensed server, which must be registered with DUCC &#xa;Systems. Each server license is issued to one (1) physical computer/server/computers&#xa;within the same location organization. Each server that contains the software,&#xa;or any portion thereof, must have it&apos;s own license. Server licenses are not &#xa;equivalent to individual licenses, meaning the software must remain on the &#xa;licensed server at all times. This license does not grant any reseller &#xa;privileges. &#xa;&#xa;DISCLAIMER OF WARRANTIES:&#xa;To the extent allowed by local law, this software is provided to you &quot;as is&quot; without &#xa;warranties or conditions of any kind, whether oral or written, express or implied. &#xa;DUCC Systems specifically disclaims any implied warranties or conditions of &#xa;merchantability, satisfactory quality, non-infringement and fitness for a particular&#xa;purpose. &#xa;&#xa;LIMITATION OF LIABILITY: &#xa;Except to the extent prohibited by local law, in no event will DUCC Systems, or it&#x2019;s&#xa;employees or officers be liable for direct, special, incidental, consequential or &#xa;other damages (including lost profit, lost data, or downtime costs), arising out of &#xa;the use, inability to use, or the results of use of the software, whether based &#xa;in warranty, contract, tort or other legal theory, and whether or not advised of &#xa;the possibility of such damages. &#xa;Your use of the software is entirely at your own risk. Should the software prove &#xa;defective, you assume the entire cost of all service, repair, or correction.&#xa;&#xa;RETURN POLICY:&#xa;Software (including but not limited to graphic/image, and text files) that is not &#xa;specifically referred to as &quot;trial software&quot;, or that includes the &quot;source code&quot;, &#xa;cannot be returned for a refund. Should you experience a problem with any purchased &#xa;software, DUCC Systems, offers support services to assist with any technical issues. &#xa;There are no refunds on installation services or any software that has been installed, &#xa;downloaded, or emailed to you.&#xa;&#xa;SUPPORT SERVICES:&#xa;Some software and services purchased from DUCC Systems may include limited free support &#xa;(technical support, re-downloads, and free updates may be limited to 6 months from date &#xa;of original qualifying purchase). Unless stated otherwise, the free support is only &#xa;available through our website/email.  If you require more advanced technical support or&#xa;require telephone assistance, additional consulting services or a support plan may be &#xa;required.  &#xa;We reserve the right to change our support policy at anytime.  To contact our support &#xa;dept. for assistance, click on &quot;www.duccsystems.com/contacts.html&quot; and click on mail&quot;.&#xa;&#xa;INSTALLATION: &#xa;You must make every attempt to safeguard your data and other files during installation, &#xa;when upgrading, or when installing an update. DUCC Systems does not assume responsibility &#xa;for loss of data or any other losses that result from installation, upgrading, or updating &#xa;of the software. Hard disks (including but not limited to all data or files &#xa;related to SchoolPlus+) should be backed up on a regular basis and should always be backed &#xa;up before you begin any installation tasks. &#xa;&#xa;OPTIONAL INSTALLATION SERVICE:&#xa;If you have purchased the optional installation service, DUCC Systems will install&#xa;the software onto your one PC as server. Installation includes basic configuration&#xa;only, unless stated in writing prior to installation. We will not setup your items, &#xa;categories, gateways, or any other elements. After we determine that the installation&#xa;was successful, technical support is provided at the current technical support department&#xa;hourly rate. While we will make every attempt to safeguard data during installation or &#xa;service, we do not assume responsibility for loss of data. Hard disks and all data on &#xa;your server should be backed up on a regular basis and should always be backed up before &#xa;DUCC Systems is called for service or installation.&#xa;&#xa;GENERAL DISCLAIMER:&#xa;DUCC Systems  neither assumes nor accepts any liability for any loss, damage, theft, misuse,&#xa;malfunction, etc. of your hardware or data or anything else that you may own regardless of &#xa;the cause or reason for any such misfortune. DUCC Systems, it&#x2019;s officers, and employees will &#xa;not be liable for lost profits, loss of business or other consequential, special, indirect &#xa;or punitive damages, even if advised of the possibility of such damages, or for any claim by &#xa;any third party . These policies, terms, and conditions may be subject to change without notice.&#xa;But this is sure we are at your door with the best.&#xa;"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Please read the folllowing license agreement,To continue with the setup, you must the accept the agreement."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="notAgreeRadio">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="99" green="99" red="0" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="I don&apos;t agree"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="agreeRadio">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="99" green="99" red="0" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="I agree"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JButton" name="jButton1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Print"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JSeparator" name="jSeparator1">
+        </Component>
+        <Component class="javax.swing.JButton" name="jButton2">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Back"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="jButton3">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Next"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton3ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="jButton4">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Cancel"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton4ActionPerformed"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>

@@ -1,0 +1,85 @@
+PLEASE READ: BY DOWNLOADING, USING OUR SOFTWARE, OR PURCHASING SERVICES RELATED TO THE SOFTWARE, 
+YOU ACCEPT THE TERMS AND CONDITIONS STATED BELOW IN A LEGALLY BINDING MANNER.
+
+If you are obtaining the software as defined below, then you must accept the terms and conditions 
+of the agreement as per the policy of the DUCC Systems.  If the company you represent or you 
+(collectively "you") do not agree to the terms and conditions of this agreement, do not download 
+or install the software.
+
+PROPRIETARY RIGHTS AND CONDITIONS:
+All right, title and interest including, but not limited to, copyright and other intellectual 
+property rights in and to the software (including but not limited to all graphic/image, and text files) 
+are owned by DUCC Systems. Such rights are protected by Indian Government copyright laws, other applicable 
+copyright laws, and international treaty provisions. DUCC Systems retains all rights not expressly granted 
+herein. 
+You may not redistribute, sell, decompile, reverse engineer, or disassemble the software. The software, 
+including any modified or customized versions, cannot be resold, redistributed, or offered as a service 
+without explicit written permission from DUCC Systems. DUCC Systems, reserves the right to refuse permission 
+to use this software product to any individual or company for any reason, and may do so without notice. 
+
+LICENSES:
+Each copy of the software must have it's own (separate) license and be registered with DUCC Systems.  
+You are not permitted to make copies of the software without first purchasing the appropriate additional 
+licenses.  Individual software licenses are only valid when registered to a domain/Organization.  This 
+license does not grant any reseller privileges. 
+
+OPTIONAL SERVER LICENSES: 
+If a "server" license is purchased, the software is considered licensed only when it resides on the licensed 
+server, which must be registered with DUCC Systems. Each server license is issued to one (1) physical 
+computer/server/computers within the same location organization. Each server that contains the software, or 
+any portion thereof, must have it's own license. Server licenses are not equivalent to individual licenses, 
+meaning the software must remain on the licensed server at all times. This license does not grant any reseller 
+privileges. 
+
+DISCLAIMER OF WARRANTIES:
+To the extent allowed by local law, this software is provided to you "as is" without warranties or conditions 
+of any kind, whether oral or written, express or implied. DUCC Systems specifically disclaims any implied 
+warranties or conditions of merchantability, satisfactory quality, non-infringement and fitness for a particular
+ purpose. 
+
+LIMITATION OF LIABILITY: 
+Except to the extent prohibited by local law, in no event will DUCC Systems, or it’s employees or officers be 
+liable for direct, special, incidental, consequential or other damages (including lost profit, lost data, or 
+downtime costs), arising out of the use, inability to use, or the results of use of the software, whether based 
+in warranty, contract, tort or other legal theory, and whether or not advised of the possibility of such damages. 
+Your use of the software is entirely at your own risk. Should the software prove defective, you assume the entire 
+cost of all service, repair, or correction.
+
+RETURN POLICY:
+Software (including but not limited to graphic/image, and text files) that is not specifically referred to as 
+"trial software", or that includes the "source code", cannot be returned for a refund. Should you experience a 
+problem with any purchased software, DUCC Systems, offers support services to assist with any technical issues. 
+There are no refunds on installation services or any software that has been installed, downloaded, or emailed to 
+you.
+
+SUPPORT SERVICES:
+Some software and services purchased from DUCC Systems may include limited free support (technical support, 
+re-downloads, and free updates may be limited to 6 months from date of original qualifying purchase).  Unless 
+stated otherwise, the free support is only available through our website/email.  If you require more advanced 
+technical support or require telephone assistance, additional consulting services or a support plan may be required.  
+We reserve the right to change our support policy at anytime.  To contact our support dept. for assistance, 
+click on "www.duccsystems.com/contacts.html" and click on mail".
+
+INSTALLATION: 
+You must make every attempt to safeguard your data and other files during installation, when upgrading, or when 
+installing an update. DUCC Systems does not assume responsibility for loss of data or any other losses that result 
+from installation, upgrading, or updating of the software. Hard disks (including but not limited to all data or files 
+related to SchoolPlus+) should be backed up on a regular basis and should always be backed up before you begin any 
+installation tasks. 
+
+OPTIONAL INSTALLATION SERVICE:
+If you have purchased the optional installation service, DUCC Systems will install the software onto your one PC 
+as server. Installation includes basic configuration only, unless stated in writing prior to installation. We will 
+not setup your items, categories, gateways, or any other elements. After we determine that the installation was successful, 
+technical support is provided at the current technical support department hourly rate. While we will make every attempt to 
+safeguard data during installation or service, we do not assume responsibility for loss of data. Hard disks and all data on 
+your server should be backed up on a regular basis and should always be backed up before DUCC Systems is called for service 
+or installation.
+
+GENERAL DISCLAIMER:
+DUCC Systems  neither assumes nor accepts any liability for any loss, damage, theft, misuse, malfunction, etc. of 
+your hardware or data or anything else that you may own regardless of the cause or reason for any such misfortune. DUCC Systems, 
+it’s officers, and employees will not be liable for lost profits, loss of business or other consequential, special, indirect 
+or punitive damages, even if advised of the possibility of such damages, or for any claim by any third party . These policies, 
+terms, and conditions may be subject to change without notice.
+But this is sure we are at your door with the best.

@@ -1,0 +1,6 @@
+SchoolPlus.InstituteRegistration$1
+SchoolPlus.InstituteRegistration$5
+SchoolPlus.InstituteRegistration$4
+SchoolPlus.InstituteRegistration$3
+SchoolPlus.InstituteRegistration$2
+SchoolPlus.InstituteRegistration
